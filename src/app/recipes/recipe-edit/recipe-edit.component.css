@@ -1,0 +1,17 @@
+.marginXS{
+    margin: 2px;
+}
+
+.paddingTB{
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched{
+    border: 1px solid red;
+}
+
+.img-responsive{
+    max-width: 300px;
+    max-height: 300px;
+}

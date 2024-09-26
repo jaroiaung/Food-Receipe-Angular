@@ -1,0 +1,19 @@
+<div class="row paddingSmall">
+    <div class="col-xs-12">
+        <button class="btn btn-sucess" (click)="onNewRecipe()">New Recipe</button>
+    </div>
+</div>
+
+<div class="row paddingSmall">
+    <div class="col-xs-12 paddingXS" *ngFor="let recipeItem of recipes; let i=index">
+    
+    <app-recipe-item [recipe]="recipeItem" [index]="i" ></app-recipe-item>
+    </div>
+</div>
+
+
+
+
+
+
+

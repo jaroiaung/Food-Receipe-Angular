@@ -1,0 +1,1 @@
+import{a as p}from"./chunk-6GNSWN5K.js";import"./chunk-GP3FLTEX.js";import{R as m,ca as e,l as r,q as i,xa as n}from"./chunk-WB7VSCDF.js";var h=(()=>{let o=class o{};o.\u0275fac=function(f){return new(f||o)},o.\u0275mod=i({type:o}),o.\u0275inj=r({imports:[m,n,e.forChild([{path:"",component:p}])]});let t=o;return t})();export{h as AuthModule};

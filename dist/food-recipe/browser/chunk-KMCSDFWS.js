@@ -1,0 +1,1 @@
+import{k as e}from"./chunk-WB7VSCDF.js";var r=(()=>{let t=class t{printLog(o){console.log(o),console.log(this.lastlog),this.lastlog=o}logStatusChange(o){console.log("A server status changed, new status: "+o)}};t.\u0275fac=function(a){return new(a||t)},t.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"});let s=t;return s})();export{r as a};
